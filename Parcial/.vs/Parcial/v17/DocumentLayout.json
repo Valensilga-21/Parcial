@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{995A9D37-B10E-461C-995E-1A4CE7DCA893}|Parcial\\Parcial.csproj|c:\\users\\sena\\documents\\cssharp vsg\\parcial\\parcial\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995A9D37-B10E-461C-995E-1A4CE7DCA893}|Parcial\\Parcial.csproj|solutionrelative:parcial\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995A9D37-B10E-461C-995E-1A4CE7DCA893}|Parcial\\Parcial.csproj|c:\\users\\sena\\documents\\cssharp vsg\\parcial\\parcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995A9D37-B10E-461C-995E-1A4CE7DCA893}|Parcial\\Parcial.csproj|solutionrelative:parcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ED80F6-EE01-4453-86E1-EBF063A2E7AE}|PrincipiosSolid\\PrincipiosSolid.csproj|c:\\users\\sena\\documents\\cssharp vsg\\parcial\\principiossolid\\l\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ED80F6-EE01-4453-86E1-EBF063A2E7AE}|PrincipiosSolid\\PrincipiosSolid.csproj|solutionrelative:principiossolid\\l\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ED80F6-EE01-4453-86E1-EBF063A2E7AE}|PrincipiosSolid\\PrincipiosSolid.csproj|c:\\users\\sena\\documents\\cssharp vsg\\parcial\\principiossolid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ED80F6-EE01-4453-86E1-EBF063A2E7AE}|PrincipiosSolid\\PrincipiosSolid.csproj|solutionrelative:principiossolid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ED80F6-EE01-4453-86E1-EBF063A2E7AE}|PrincipiosSolid\\PrincipiosSolid.csproj|c:\\users\\sena\\documents\\cssharp vsg\\parcial\\principiossolid\\o\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ED80F6-EE01-4453-86E1-EBF063A2E7AE}|PrincipiosSolid\\PrincipiosSolid.csproj|solutionrelative:principiossolid\\o\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ED80F6-EE01-4453-86E1-EBF063A2E7AE}|PrincipiosSolid\\PrincipiosSolid.csproj|c:\\users\\sena\\documents\\cssharp vsg\\parcial\\principiossolid\\d\\iimpresora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ED80F6-EE01-4453-86E1-EBF063A2E7AE}|PrincipiosSolid\\PrincipiosSolid.csproj|solutionrelative:principiossolid\\d\\iimpresora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ED80F6-EE01-4453-86E1-EBF063A2E7AE}|PrincipiosSolid\\PrincipiosSolid.csproj|c:\\users\\sena\\documents\\cssharp vsg\\parcial\\principiossolid\\d\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ED80F6-EE01-4453-86E1-EBF063A2E7AE}|PrincipiosSolid\\PrincipiosSolid.csproj|solutionrelative:principiossolid\\d\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ED80F6-EE01-4453-86E1-EBF063A2E7AE}|PrincipiosSolid\\PrincipiosSolid.csproj|c:\\users\\sena\\documents\\cssharp vsg\\parcial\\principiossolid\\d\\consolaimpresora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ED80F6-EE01-4453-86E1-EBF063A2E7AE}|PrincipiosSolid\\PrincipiosSolid.csproj|solutionrelative:principiossolid\\d\\consolaimpresora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ED80F6-EE01-4453-86E1-EBF063A2E7AE}|PrincipiosSolid\\PrincipiosSolid.csproj|c:\\users\\sena\\documents\\cssharp vsg\\parcial\\principiossolid\\d\\archivoimpresora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ED80F6-EE01-4453-86E1-EBF063A2E7AE}|PrincipiosSolid\\PrincipiosSolid.csproj|solutionrelative:principiossolid\\d\\archivoimpresora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ED80F6-EE01-4453-86E1-EBF063A2E7AE}|PrincipiosSolid\\PrincipiosSolid.csproj|c:\\users\\sena\\documents\\cssharp vsg\\parcial\\principiossolid\\i\\imprimirdocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ED80F6-EE01-4453-86E1-EBF063A2E7AE}|PrincipiosSolid\\PrincipiosSolid.csproj|solutionrelative:principiossolid\\i\\imprimirdocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ED80F6-EE01-4453-86E1-EBF063A2E7AE}|PrincipiosSolid\\PrincipiosSolid.csproj|c:\\users\\sena\\documents\\cssharp vsg\\parcial\\principiossolid\\i\\impresoratermica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ED80F6-EE01-4453-86E1-EBF063A2E7AE}|PrincipiosSolid\\PrincipiosSolid.csproj|solutionrelative:principiossolid\\i\\impresoratermica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ED80F6-EE01-4453-86E1-EBF063A2E7AE}|PrincipiosSolid\\PrincipiosSolid.csproj|c:\\users\\sena\\documents\\cssharp vsg\\parcial\\principiossolid\\i\\impresoralaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ED80F6-EE01-4453-86E1-EBF063A2E7AE}|PrincipiosSolid\\PrincipiosSolid.csproj|solutionrelative:principiossolid\\i\\impresoralaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ED80F6-EE01-4453-86E1-EBF063A2E7AE}|PrincipiosSolid\\PrincipiosSolid.csproj|c:\\users\\sena\\documents\\cssharp vsg\\parcial\\principiossolid\\i\\impresorainkjet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ED80F6-EE01-4453-86E1-EBF063A2E7AE}|PrincipiosSolid\\PrincipiosSolid.csproj|solutionrelative:principiossolid\\i\\impresorainkjet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\Parcial\\models\\Empleado.cs",
+              "RelativeDocumentMoniker": "Parcial\\models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\Parcial\\models\\Empleado.cs",
+              "RelativeToolTip": "Parcial\\models\\Empleado.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAA4wDgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:47:50.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\Parcial\\Program.cs",
+              "RelativeDocumentMoniker": "Parcial\\Program.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\Parcial\\Program.cs",
+              "RelativeToolTip": "Parcial\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:47:26.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\PrincipiosSolid\\L\\Animal.cs",
+              "RelativeDocumentMoniker": "PrincipiosSolid\\L\\Animal.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\PrincipiosSolid\\L\\Animal.cs",
+              "RelativeToolTip": "PrincipiosSolid\\L\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:46:41.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Forma.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\PrincipiosSolid\\O\\Forma.cs",
+              "RelativeDocumentMoniker": "PrincipiosSolid\\O\\Forma.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\PrincipiosSolid\\O\\Forma.cs",
+              "RelativeToolTip": "PrincipiosSolid\\O\\Forma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:44:11.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Documento.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\PrincipiosSolid\\D\\Documento.cs",
+              "RelativeDocumentMoniker": "PrincipiosSolid\\D\\Documento.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\PrincipiosSolid\\D\\Documento.cs",
+              "RelativeToolTip": "PrincipiosSolid\\D\\Documento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:40:23.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArchivoImpresora.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\PrincipiosSolid\\D\\ArchivoImpresora.cs",
+              "RelativeDocumentMoniker": "PrincipiosSolid\\D\\ArchivoImpresora.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\PrincipiosSolid\\D\\ArchivoImpresora.cs",
+              "RelativeToolTip": "PrincipiosSolid\\D\\ArchivoImpresora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:39:48.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsolaImpresora.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\PrincipiosSolid\\D\\ConsolaImpresora.cs",
+              "RelativeDocumentMoniker": "PrincipiosSolid\\D\\ConsolaImpresora.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\PrincipiosSolid\\D\\ConsolaImpresora.cs",
+              "RelativeToolTip": "PrincipiosSolid\\D\\ConsolaImpresora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:39:24.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IImpresora.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\PrincipiosSolid\\D\\IImpresora.cs",
+              "RelativeDocumentMoniker": "PrincipiosSolid\\D\\IImpresora.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\PrincipiosSolid\\D\\IImpresora.cs",
+              "RelativeToolTip": "PrincipiosSolid\\D\\IImpresora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:38:51.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImpresoraTermica.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\PrincipiosSolid\\I\\ImpresoraTermica.cs",
+              "RelativeDocumentMoniker": "PrincipiosSolid\\I\\ImpresoraTermica.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\PrincipiosSolid\\I\\ImpresoraTermica.cs",
+              "RelativeToolTip": "PrincipiosSolid\\I\\ImpresoraTermica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:27:54.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ImpresoraInkjet.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\PrincipiosSolid\\I\\ImpresoraInkjet.cs",
+              "RelativeDocumentMoniker": "PrincipiosSolid\\I\\ImpresoraInkjet.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\PrincipiosSolid\\I\\ImpresoraInkjet.cs",
+              "RelativeToolTip": "PrincipiosSolid\\I\\ImpresoraInkjet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:27:25.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ImpresoraLaser.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\PrincipiosSolid\\I\\ImpresoraLaser.cs",
+              "RelativeDocumentMoniker": "PrincipiosSolid\\I\\ImpresoraLaser.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\PrincipiosSolid\\I\\ImpresoraLaser.cs",
+              "RelativeToolTip": "PrincipiosSolid\\I\\ImpresoraLaser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:26:51.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\PrincipiosSolid\\Program.cs",
+              "RelativeDocumentMoniker": "PrincipiosSolid\\Program.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\PrincipiosSolid\\Program.cs",
+              "RelativeToolTip": "PrincipiosSolid\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:24:29.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImprimirDocumento.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\PrincipiosSolid\\I\\ImprimirDocumento.cs",
+              "RelativeDocumentMoniker": "PrincipiosSolid\\I\\ImprimirDocumento.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\CsSharp VSG\\Parcial\\PrincipiosSolid\\I\\ImprimirDocumento.cs",
+              "RelativeToolTip": "PrincipiosSolid\\I\\ImprimirDocumento.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwB0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:22:03.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

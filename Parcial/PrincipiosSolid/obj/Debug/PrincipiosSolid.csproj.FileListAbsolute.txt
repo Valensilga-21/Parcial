@@ -1,0 +1,7 @@
+C:\Users\SENA\Documents\CsSharp VSG\Parcial\PrincipiosSolid\bin\Debug\PrincipiosSolid.exe.config
+C:\Users\SENA\Documents\CsSharp VSG\Parcial\PrincipiosSolid\bin\Debug\PrincipiosSolid.exe
+C:\Users\SENA\Documents\CsSharp VSG\Parcial\PrincipiosSolid\bin\Debug\PrincipiosSolid.pdb
+C:\Users\SENA\Documents\CsSharp VSG\Parcial\PrincipiosSolid\obj\Debug\PrincipiosSolid.csproj.AssemblyReference.cache
+C:\Users\SENA\Documents\CsSharp VSG\Parcial\PrincipiosSolid\obj\Debug\PrincipiosSolid.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\CsSharp VSG\Parcial\PrincipiosSolid\obj\Debug\PrincipiosSolid.exe
+C:\Users\SENA\Documents\CsSharp VSG\Parcial\PrincipiosSolid\obj\Debug\PrincipiosSolid.pdb
